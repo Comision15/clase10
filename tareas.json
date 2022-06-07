@@ -1,0 +1,23 @@
+[
+    {
+      "clase": 3,
+      "titulo": "Introducción a NodeJS",
+      "estado": "terminado"
+    },
+    {
+      "clase": 4,
+      "titulo": "Repaso de funciones, condicionales y arrays",
+      "estado": "terminado"
+    },
+    {
+      "clase": 5,
+      "titulo": "JSON, más condicionales y ciclos",
+      "estado": "en proceso"
+    },
+    {
+      "clase": 6,
+      "titulo": "Métodos de arrays y callbacks",
+      "estado": "pendiente"
+    }
+  ]
+  
